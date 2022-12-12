@@ -3,3 +3,10 @@
 ## Prerequisite
 Tensorflow, Keras
 
+## Run
+### Augment original images
+
+### Train models
+
+### Run models
+

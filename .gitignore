@@ -1,0 +1,6 @@
+# cache files
+.idea/
+__pycache__/
+
+# augmented images
+dataset/augmented_train_images/
